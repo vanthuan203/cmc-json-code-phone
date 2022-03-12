@@ -1,0 +1,12 @@
+# @get
+GET http://localhost:3000/api/user?username=cungtoasang
+# @post ađ
+###
+POST http://localhost:3000/api/user
+Content-Type: application/json
+
+{
+    "username":"nguyenthuan",
+    "code":15
+}
+

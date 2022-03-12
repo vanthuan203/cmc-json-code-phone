@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "username": "thuandfdfdf",
+      "createdAt": 1647053779388,
+      "id": 3,
+      "code": 12
+    },
+    {
+      "username": "cungtoasang",
+      "code": 13,
+      "createdAt": 1647053893144,
+      "id": 4
+    },
+    {
+      "username": "nguyenthuan",
+      "code": 15,
+      "createdAt": 1647053908553,
+      "id": 5
+    }
+  ]
+}
