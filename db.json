@@ -1,6 +1,7 @@
 {
   "user": [
     {
+      "receive":0,
       "check":1,
       "phone": "0985858583",
       "createdAt": 1647053779388,
