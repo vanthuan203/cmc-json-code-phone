@@ -18,7 +18,7 @@ server.use((req, res, next) => {
     req.body.createdAt = Date.now()
   } 
   
-  // Continue to JSON Server router
+  //Continue to JSON Server router
   next()
 })
 

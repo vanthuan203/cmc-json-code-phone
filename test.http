@@ -1,5 +1,5 @@
 # @get
-GET http://localhost:3000/api/user?username=cungtoasang
+GET https://cmc-json-code-phone.herokuapp.com/api/user
 # @post ađ
 ###
 POST http://localhost:3000/api/user
